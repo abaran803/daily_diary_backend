@@ -1,0 +1,15 @@
+GET http://localhost:8080
+
+###
+
+GET http://localhost:8080/showAllPosts
+
+###
+
+POST http://localhost:8080/newPost
+Content-Type: application/json
+
+{
+  "title": "Card Title",
+  "description": "Card Description"
+}

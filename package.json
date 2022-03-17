@@ -1,0 +1,26 @@
+{
+  "name": "Daily_Diary_Backend",
+  "version": "1.0.0",
+  "description": "\"# daily_diary_backend\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abaran803/daily_diary_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abaran803/daily_diary_backend/issues"
+  },
+  "homepage": "https://github.com/abaran803/daily_diary_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
